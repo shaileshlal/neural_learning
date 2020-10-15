@@ -1,4 +1,9 @@
-# Neural Nets and all that :)
+## Neural Networks, Machine Learning and all that
 
-Welcome to my page! I am Shailesh, I work on machine learning and theoretical physics. This website is being created to host some 
-neural networks I've trained. Hopefully you'll find them useful too. Get in touch if you have comments!
+Hi! Welcome to my page. I'm Shailesh, though chances are, if you are here, you know me already.
+
+I work on Machine Learning applications in theoretical physics, and also in some aspects of ML theory.
+
+I started life as a string theorist, you can read my papers  <a href="https://inspirehep.net/authors/1065082">here</a>.
+
+[Here](cifar10) is my first post: training an autoencoder on CIFAR-10
