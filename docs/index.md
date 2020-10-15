@@ -1,4 +1,4 @@
-## Neural Networks and all That
+## Neural Networks, Machine Learning and all that
 
 Hi! Welcome to my page. I'm Shailesh, though chances are, if you are here, you know me already.
 
