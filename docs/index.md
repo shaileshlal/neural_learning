@@ -6,4 +6,4 @@ I work on Machine Learning applications in theoretical physics, and also in some
 
 I started life as a string theorist, you can read my papers  <a href="https://inspirehep.net/authors/1065082">here</a>.
 
-Here is my first post: training an autoencoder on CIFAR-10
+[Here](cifar10) is my first post: training an autoencoder on CIFAR-10
