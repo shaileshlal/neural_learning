@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h1>A foray into Autoencoders</h1>
 
 
@@ -629,8 +633,6 @@ not isolated yet.</p>
 
 </div>
 </div>
-
-
 
 
 
